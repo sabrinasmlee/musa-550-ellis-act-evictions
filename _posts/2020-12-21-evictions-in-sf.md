@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
-date: 2019-04-13
+title: "Evictions in San Francisco, from 1997 to 2020"
+date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+tags: [dataviz, hvplot]
+excerpt: "A look at where evictions occur in SF from 1997 to 2020"
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
@@ -11,6 +11,9 @@ hv-loader:
 toc: true
 toc_sticky: true
 ---
+
+Evictions in San Francisco have long been a source of 
+
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 

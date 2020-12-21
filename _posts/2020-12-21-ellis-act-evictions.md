@@ -3,9 +3,9 @@ title: "Ellis Act Evictions in San Francisco, from March 2020 onwards"
 date: 2020-12-21
 published: true
 tags: [dataviz, hvplot]
-excerpt: "Ellis Act Evictions have occured since March 2020"
+excerpt: "Examining where Ellis Act Evictions have occured since the COVID-19 rental protections have taken effect"
 hv-loader:
-  hv-chart-1: ["charts/side_by_side.html", "1200"] 
+  hv-chart-1: ["charts/side_by_side.html", "1200", "1200"] 
 toc: true
 toc_sticky: true
 ---

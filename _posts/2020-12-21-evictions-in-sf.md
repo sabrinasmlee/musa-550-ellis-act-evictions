@@ -26,5 +26,5 @@ Below shows a plot of eviction cases in San Francisco from 2003 to 2016. It can 
 
 The interactive plot below allows us to observe the incidence of eviction cases year-by-year, from 2003 to 2016. It can be observed that the same areas of the city experience higher eviction cases, since 2003. 
 
-<div id="choropleth"></div>
+<div id="hv-chart-1"></div>
 

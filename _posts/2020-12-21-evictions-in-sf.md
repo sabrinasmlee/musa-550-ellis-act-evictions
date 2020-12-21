@@ -3,9 +3,9 @@ title: "Evictions in San Francisco, from 2003 to 2016"
 date: 2020-12-21
 published: true
 tags: [dataviz, hvplot]
-excerpt: "A look at where evictions occur in SF from 1997 to 2020"
+excerpt: "A look at where evictions occur in SF from 2003 to 2016"
 hv-loader:
-  hv-chart-1: ["charts/choropleth.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/choropleth.html", "700"] # second argument is the height
 toc: true
 toc_sticky: true
 ---

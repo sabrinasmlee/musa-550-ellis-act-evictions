@@ -21,7 +21,7 @@ The visualizations below show where evictions have occurred in San Francisco, fr
 
 Below shows a plot of eviction cases in San Francisco from 2003 to 2016. It can be observed that there is a high incidence of eviction cases in the northeast and southwest areas of the city. 
 
-![evictions-2013to2016]({{ site.url }}{{ site.baseurl }}/assets/images/SF_evictions_2013to2016.png
+![evictions-2013to2016]({{ site.url }}{{ site.baseurl }}/assets/images/SF_evictions_2013to2016.png)
 
 
 The interactive plot below allows us to observe the incidence of eviction cases year-by-year, from 2003 to 2016. It can be observed that the same areas of the city experience higher eviction cases, since 2003. 

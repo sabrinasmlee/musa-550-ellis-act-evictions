@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, hvplot]
 excerpt: "A look at where evictions occur in SF from 2003 to 2016"
 hv-loader:
-  hv-chart-1: ["charts/choropleth.html", "700"] # second argument is the height
+  hv-chart-1: ["charts/choropleth.html", "1500"] 
 toc: true
 toc_sticky: true
 ---
